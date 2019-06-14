@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/daisuke-awaji/spring-mysql-sample/tree/master.svg?style=svg)](https://circleci.com/gh/daisuke-awaji/spring-mysql-sample/tree/master)
+
 # spring-mysql-sample
 
 SpringBootのアプリケーションをMySQLに接続するサンプルコードです。
