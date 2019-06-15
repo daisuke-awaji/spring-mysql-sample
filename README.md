@@ -22,4 +22,3 @@ $ ./gradlew build
 ```
 $ sh app.jar
 ```
-
